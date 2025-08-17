@@ -1,5 +1,5 @@
-### Task 3: Advanced CSS & JavaScript Skills (Responsive Design)
-# Focused on advanced CSS techniques such as:
+# Task 3: Advanced CSS & JavaScript Skills (Responsive Design)
+### Focused on advanced CSS techniques such as:
 Flexbox.
 Grid Layout.
 Responsive Design (Media Queries).
